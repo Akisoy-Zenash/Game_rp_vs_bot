@@ -9,7 +9,7 @@ Votre attack fait entre 5 et 10 dégats
 Vous avez un avantage que le bot n'a pas ; vous pouvez boire des potions
 
    Vous avez 3 Potions,
-   Chaque potion vous rajoute entre 15 et 35PV
+   Chaque potion vous rajoute entre 15 et 50PV
  
  
 PS: quand vous utiliser une potion, vous sautez votre prochain tour,
